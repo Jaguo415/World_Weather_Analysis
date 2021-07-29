@@ -24,7 +24,7 @@ In the screenshot example below we are requesting for locations in the database 
 ![](Vacation_Itinerary/weatherpy_vacation_hotel_location.png)
 
 
-## Vacation Itinerary
+## Vacation Itinerary:
 
 The Vacation Itinerary folder takes our search information from the google maps directions. We have choosen these 4 european cities, Lata, Libourne, Namestovo, and Zlobin as our intended travel destinations
 
@@ -32,6 +32,8 @@ The Vacation Itinerary folder takes our search information from the google maps 
 
 
 By using the google maps directions API, we are able to create this useful map clearly showing us which route to follow. 
+
+
 ![](Vacation_Itinerary/Weatherpy_Travel_map_markers.png)
 
 
